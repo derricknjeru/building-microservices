@@ -1,0 +1,3 @@
+# Project exclude paths
+/configuration/configuration-basic/target/
+/configuration/configuration-cloudclient/target/
